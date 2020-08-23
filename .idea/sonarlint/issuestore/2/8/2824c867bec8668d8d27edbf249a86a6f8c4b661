@@ -1,0 +1,7 @@
+
+@python:S125"Remove this commented out code.(ŸòÍúÿÿÿÿ8ó¤Í§í-
+spython:S1542"WRename function "MyCurrentMonth" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ì¢­A8ó¤Í§í-
+xpython:S1542"VRename function "MyCurrentYear" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ÿ°¶ûÿÿÿÿ8ó¤Í§í-
+upython:S1542"XRename function "MyPreviousMonth" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ø«ë8ó¤Í§í-
+~python:S1542"\Rename function "MyPreviousMonthYear" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‡ÃÌúÿÿÿÿ8ó¤Í§í-
+{python:S1542"YRename function "expensesVsavings" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¤Ñ®³øÿÿÿÿ8ó¤Í§í-
